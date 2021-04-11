@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "title": "Vue",
+      "content": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "start": "21th January 2021",
+      "due": "19th February 2021",
+      "status": "overdue",
+      "id": 4
+    },
+    {
+      "title": "React",
+      "content": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "start": "25th January 2021",
+      "due": "24th February 2021",
+      "status": "completed",
+      "id": 3
+    },
+    {
+      "title": "Angular",
+      "content": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "start": "27th January 2021",
+      "due": "25th February 2021",
+      "status": "ongoing",
+      "id": 2
+    },
+    {
+      "title": "Vanilla",
+      "content": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "start": "30th January 2021",
+      "due": "28th February 2021",
+      "status": "overdue",
+      "id": 1
+    }
+  ]
+}
